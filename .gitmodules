@@ -1,0 +1,6 @@
+[submodule "aks-importer"]
+	path = aks-importer
+	url = https://github.com/complex-programming-language/aks-importer.git
+[submodule "aks-graph"]
+	path = aks-graph
+	url = https://github.com/complex-programming-language/aks-graph.git
